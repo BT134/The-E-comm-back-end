@@ -9,7 +9,6 @@
   - [User Story](#user-story)
   - [Installation](#installation)
   - [Visual Demo](#visual-demo)
-  - [Screenshot](#screen-shot)
   - [Tests](#tests)
   - [Built With](#built-with)
   - [Acknowledgements](#acknowledgements)
@@ -31,13 +30,9 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Visual Demo
 
-><img src="" alt= "">
+><img src="images\E-Commerce Back End .mp4" alt= "Walkthrough video of E-commerce back end app">
 
-> Full video/demo can be viewed [HERE]()
-
-## Screen Shot
-
-><img src="" alt="">
+> Full video/demo can be viewed [HERE](https://drive.google.com/file/d/1_RydPqygO3EukEJVE4T3Yyife-NzsYWE/view)
 
 ## Tests
 
