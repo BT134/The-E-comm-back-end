@@ -32,8 +32,6 @@ SO THAT my company can compete with other e-commerce companies
 
 ><img src="images\E-Commerce Back End .mp4" alt= "Walkthrough video of E-commerce back end app">
 
-<iframe src="https://drive.google.com/file/d/1_RydPqygO3EukEJVE4T3Yyife-NzsYWE/preview" width="640" height="480"></iframe>
-
 > Full video/demo can be viewed [HERE](https://drive.google.com/file/d/1_RydPqygO3EukEJVE4T3Yyife-NzsYWE/view)
 
 ## Tests
